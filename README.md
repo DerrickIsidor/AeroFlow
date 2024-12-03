@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # AeroFlow
 
 # AeroFlow: A Package for Financial and Aviation Calculations
