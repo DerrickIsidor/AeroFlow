@@ -1,11 +1,11 @@
 Package: AeroFlow
 Type: Package
-Title: Calculates a few basic functions
+Title: Calculates a few basic financial functions
 Version: 0.1.0
 Author: Derrick Isidor
 Maintainer: The package maintainer disidor@outlook.com
-Description: This is my first ever package and it is part of my R programming final project
-    This package is the start of a journey.
+Description: This is my first ever R package and it is part of my R programming final project.
+    This package is the start of a journey. One in which I keep creating more. 
 License: CC0
 Encoding: UTF-8
 LazyData: true
