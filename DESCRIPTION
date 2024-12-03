@@ -1,11 +1,15 @@
 Package: AeroFlow
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Calculates a few basic functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Derrick Isidor
+Maintainer: The package maintainer disidor@outlook.com
+Description: This is my first ever package and it is part of my R programming final project
+    This package is the start of a journey.
+License: CC0
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    ggplot2,
+    openSkies
+RoxygenNote: 7.3.1
