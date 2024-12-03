@@ -1,2 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 export(calc_compound_interest)
+export(calc_debt_payoff)
+export(calc_savings_time)
+export(calc_loan_payment)
+export(calc_future_value)
