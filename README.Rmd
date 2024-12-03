@@ -14,3 +14,4 @@ To install the development version of AeroFlow from GitHub, you can use the foll
 ```r
 # install.packages("pak")
 pak::pak("DerrickIsidor/AeroFlow")
+```
